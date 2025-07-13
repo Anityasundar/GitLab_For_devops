@@ -4,4 +4,7 @@ this is the file created by MasterBranch
 this is created by branch chinu
 
 this is the file I'm updating in chinu branch at 01:13
+
+
+same file modified bt master branch at 1:27
 >>>>>>> chinu
